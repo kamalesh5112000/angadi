@@ -1,0 +1,20 @@
+============[Date]============
+[ 2020-05-12 10:43:00  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hey  , your order  ,
+ with a total cost of ₹ has been received and is . Thank you!
+
+
+============[Trace]===========
+#0 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd1/203/10500203/public_html/telegram/send.php(53): Telegram->sendMessage(Array)
+#4 {main}
+

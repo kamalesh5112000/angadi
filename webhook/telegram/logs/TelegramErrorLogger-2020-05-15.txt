@@ -1,0 +1,635 @@
+============[Date]============
+[ 2020-05-15 14:10:31  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.id= 4112
+ref.parent_id= 0
+ref.number= 4112
+ref.order_key= wc_order_1Jv9t9co3o9N1
+ref.created_via= checkout
+ref.version= 4.0.1
+ref.status= processing
+ref.currency= INR
+ref.date_created= 2020-05-15T19:39:49
+ref.date_created_gmt= 2020-05-15T14:09:49
+ref.date_modified= 2020-05-15T19:39:49
+ref.date_modified_gmt= 2020-05-15T14:09:49
+ref.discount_total= 0.00
+ref.discount_tax= 0.00
+ref.shipping_total= 0.00
+ref.shipping_tax= 0.00
+ref.cart_tax= 0.00
+ref.total= 0.00
+ref.total_tax= 0.00
+ref.prices_include_tax= false
+ref.customer_id= 1
+ref.customer_ip_address= 103.220.37.4
+ref.customer_user_agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ref.customer_note= 
+ref.billing.first_name= First Name
+ref.billing.last_name= Last Name
+ref.billing.company= 
+ref.billing.address_1= Street Name 1
+ref.billing.address_2= Area Name
+ref.billing.city= Town
+ref.billing.state= PY
+ref.billing.postcode= 123456
+ref.billing.country= IN
+ref.billing.email= shafreena2000@gmail.com
+ref.billing.phone= 9739284447
+ref.shipping.first_name= First Name
+ref.shipping.last_name= Last Name
+ref.shipping.company= 
+ref.shipping.address_1= Street Name 1
+ref.shipping.address_2= Area Name
+ref.shipping.city= Town
+ref.shipping.state= PY
+ref.shipping.postcode= 123456
+ref.shipping.country= IN
+ref.payment_method= 
+ref.payment_method_title= 
+ref.transaction_id= 
+ref.date_paid= 2020-05-15T19:39:49
+ref.date_paid_gmt= 2020-05-15T14:09:49
+ref.date_completed= 
+ref.date_completed_gmt= 
+ref.cart_hash= dd1e359f71efb0120cee064c749c28cd
+ref.meta_data.0.id= 17397
+ref.meta_data.0.key= _billing_telegram
+ref.meta_data.0.value= 1221332407
+ref.meta_data.1.id= 17398
+ref.meta_data.1.key= is_vat_exempt
+ref.meta_data.1.value= no
+ref.meta_data.2.id= 17399
+ref.meta_data.2.key= store_details
+ref.meta_data.2.value= a:58:{s:9:"user_name";s:9:"Pdyuser96";s:10:"user_email";s:19:"help96@angadi.co.in";s:10:"first_name";s:7:"Prakash";s:9:"last_name";s:11:"Prabakarana";s:10:"store_name";s:12:"Prakash Farm";s:10:"store_slug";s:7:"Prakash";s:11:"store_email";s:0:"";s:5:"phone";s:10:"8870850998";s:9:"vendor_id";s:5:"99999";s:8:"gravatar";s:0:"";s:11:"banner_type";s:10:"single_img";s:6:"banner";s:0:"";s:12:"banner_video";s:0:"";s:13:"banner_slider";a:1:{i:0;a:2:{s:5:"image";s:0:"";s:4:"link";s:0:"";}}s:13:"mobile_banner";s:0:"";s:16:"list_banner_type";s:10:"single_img";s:11:"list_banner";s:0:"";s:17:"list_banner_video";s:0:"";s:16:"shop_description";s:30:"<p><br data-mce-bogus="1"></p>";s:7:"address";a:6:{s:8:"street_1";s:82:"No:23 Mariamman Koil Street, PS Nallur                         Puducherry - 605106";s:8:"street_2";s:0:"";s:4:"city";s:11:"Nettapakkam";s:3:"zip";s:7:" 605106";s:7:"country";s:2:"IN";s:5:"state";s:2:"PY";}s:11:"geolocation";a:3:{s:14:"store_location";s:127:"Nettapakkam Old Water Saving Tank, Fronteir Road, Madhagadipet, Villianur Taluk, Puducherry district, Puducherry, 605107, India";s:9:"store_lat";s:10:"11.8698024";s:9:"store_lng";s:10:"79.6312293";}s:19:"store_name_position";s:9:"on_header";s:9:"store_ppp";s:2:"10";s:16:"store_hide_email";s:3:"yes";s:15:"wcfmmp_shipping";a:2:{s:10:"_wcfmmp_pt";s:0:"";s:26:"_wcfmmp_user_shipping_type";s:0:"";}s:10:"commission";a:8:{s:15:"commission_mode";s:6:"global";s:18:"commission_percent";s:2:"90";s:16:"commission_fixed";s:0:"";s:19:"commission_by_sales";a:1:{i:0;a:5:{s:5:"sales";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:22:"commission_by_products";a:1:{i:0;a:5:{s:4:"cost";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:22:"commission_by_quantity";a:1:{i:0;a:5:{s:8:"quantity";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:8:"tax_name";s:0:"";s:11:"tax_percent";s:0:"";}s:10:"withdrawal";a:8:{s:16:"transaction_mode";s:6:"global";s:23:"transaction_charge_type";s:2:"no";s:18:"transaction_charge";a:1:{s:3:"cod";a:1:{i:0;a:2:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";}}}s:15:"withdrawal_mode";s:6:"global";s:16:"withdrawal_limit";s:0:"";s:19:"withdrawal_thresold";s:0:"";s:22:"withdrawal_charge_type";s:2:"no";s:17:"withdrawal_charge";a:4:{s:6:"paypal";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:6:"stripe";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:6:"skrill";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:13:"bank_transfer";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}}}s:7:"payment";a:4:{s:6:"method";s:0:"";s:6:"paypal";a:1:{s:5:"email";s:0:"";}s:6:"skrill";a:1:{s:5:"email";s:0:"";}s:4:"bank";a:8:{s:7:"ac_name";s:0:"";s:9:"ac_number";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_addr";s:0:"";s:14:"routing_number";s:0:"";s:4:"iban";s:0:"";s:5:"swift";s:0:"";s:4:"ifsc";s:0:"";}}s:16:"wcfm_store_hours";a:1:{s:9:"day_times";a:7:{i:0;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:1;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:2;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:3;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:4;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:5;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:6;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}}}s:9:"store_seo";a:9:{s:21:"wcfmmp-seo-meta-title";s:0:"";s:20:"wcfmmp-seo-meta-desc";s:0:"";s:24:"wcfmmp-seo-meta-keywords";s:0:"";s:19:"wcfmmp-seo-og-title";s:0:"";s:18:"wcfmmp-seo-og-desc";s:0:"";s:19:"wcfmmp-seo-og-image";s:0:"";s:24:"wcfmmp-seo-twitter-title";s:0:"";s:23:"wcfmmp-seo-twitter-desc";s:0:"";s:24:"wcfmmp-seo-twitter-image";s:0:"";}s:6:"social";a:8:{s:7:"twitter";s:0:"";s:2:"fb";s:0:"";s:9:"instagram";s:0:"";s:7:"youtube";s:0:"";s:8:"linkedin";s:0:"";s:5:"gplus";s:0:"";s:8:"snapchat";s:0:"";s:9:"pinterest";s:0:"";}s:21:"wcfm_policy_tab_title";s:0:"";s:20:"wcfm_shipping_policy";s:11:"<p><br></p>";s:18:"wcfm_refund_policy";s:11:"<p><br></p>";s:24:"wcfm_cancellation_policy";s:11:"<p><br></p>";s:16:"customer_support";a:8:{s:5:"phone";s:0:"";s:5:"email";s:0:"";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:7:"country";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:3:"zip";s:0:"";}s:11:"bfirst_name";s:0:"";s:10:"blast_name";s:0:"";s:6:"bphone";s:0:"";s:7:"baddr_1";s:0:"";s:7:"baddr_2";s:0:"";s:8:"bcountry";s:0:"";s:5:"bcity";s:0:"";s:6:"bstate";s:0:"";s:4:"bzip";s:0:"";s:11:"sfirst_name";s:0:"";s:10:"slast_name";s:0:"";s:7:"saddr_1";s:0:"";s:7:"saddr_2";s:0:"";s:8:"scountry";s:0:"";s:5:"scity";s:0:"";s:6:"sstate";s:0:"";s:4:"szip";s:0:"";s:18:"wcfm_vacation_mode";s:2:"no";s:30:"wcfm_disable_vacation_purchase";s:2:"no";s:14:"store_location";s:127:"Nettapakkam Old Water Saving Tank, Fronteir Road, Madhagadipet, Villianur Taluk, Puducherry district, Puducherry, 605107, India";s:9:"store_lat";s:10:"11.8698024";s:9:"store_lng";s:10:"79.6312293";}
+ref.meta_data.3.id= 17400
+ref.meta_data.3.key= store_phone
+ref.meta_data.3.value= 8870850998
+ref.meta_data.4.id= 17401
+ref.meta_data.4.key= store_telegram
+ref.meta_data.4.value= Pdyuser96
+ref.meta_data.5.id= 17402
+ref.meta_data.5.key= store_email
+ref.meta_data.5.value= 
+ref.meta_data.6.id= 17403
+ref.meta_data.6.key= store_address
+ref.meta_data.6.value= No:23 Mariamman Koil Street, PS Nallur                         Puducherry - 605106, , Nettapakkam,  605106.-IN
+ref.meta_data.7.id= 17404
+ref.meta_data.7.key= store_name
+ref.meta_data.7.value= Prakash Farm
+ref.meta_data.8.id= 17405
+ref.meta_data.8.key= _wcfmmp_order_processed
+ref.meta_data.8.value= yes
+ref.line_items.0.id= 260
+ref.line_items.0.name= Bhendi
+ref.line_items.0.product_id= 3947
+ref.line_items.0.variation_id= 0
+ref.line_items.0.quantity= 1
+ref.line_items.0.tax_class= 
+ref.line_items.0.subtotal= 0.00
+ref.line_items.0.subtotal_tax= 0.00
+ref.line_items.0.total= 0.00
+ref.line_items.0.total_tax= 0.00
+ref.line_items.0.meta_data.0.id= 2594
+ref.line_items.0.meta_data.0.key= _vendor_id
+ref.line_items.0.meta_data.0.value= 120
+ref.line_items.0.meta_data.1.id= 2595
+ref.line_items.0.meta_data.1.key= _wcfmmp_order_item_processed
+ref.line_items.0.meta_data.1.value= 143
+ref.line_items.0.sku= 
+ref.line_items.0.price= 0
+ref.line_items.1.id= 261
+ref.line_items.1.name= Brinjal
+ref.line_items.1.product_id= 3943
+ref.line_items.1.variation_id= 0
+ref.line_items.1.quantity= 1
+ref.line_items.1.tax_class= 
+ref.line_items.1.subtotal= 0.00
+ref.line_items.1.subtotal_tax= 0.00
+ref.line_items.1.total= 0.00
+ref.line_items.1.total_tax= 0.00
+ref.line_items.1.meta_data.0.id= 2596
+ref.line_items.1.meta_data.0.key= _vendor_id
+ref.line_items.1.meta_data.0.value= 120
+ref.line_items.1.meta_data.1.id= 2597
+ref.line_items.1.meta_data.1.key= _wcfmmp_order_item_processed
+ref.line_items.1.meta_data.1.value= 144
+ref.line_items.1.sku= 
+ref.line_items.1.price= 0
+ref.shipping_lines.0.id= 262
+ref.shipping_lines.0.method_title= In Store pickup
+ref.shipping_lines.0.method_id= local_pickup
+ref.shipping_lines.0.instance_id= 1
+ref.shipping_lines.0.total= 0.00
+ref.shipping_lines.0.total_tax= 0.00
+ref.shipping_lines.0.meta_data.0.id= 2588
+ref.shipping_lines.0.meta_data.0.key= Items
+ref.shipping_lines.0.meta_data.0.value= Bhendi &times; 1, Brinjal &times; 1
+ref.shipping_lines.0.meta_data.1.id= 2589
+ref.shipping_lines.0.meta_data.1.key= vendor_id
+ref.shipping_lines.0.meta_data.1.value= 120
+ref.shipping_lines.0.meta_data.2.id= 2590
+ref.shipping_lines.0.meta_data.2.key= package_qty
+ref.shipping_lines.0.meta_data.2.value= 2
+ref.shipping_lines.0.meta_data.3.id= 2591
+ref.shipping_lines.0.meta_data.3.key= method_slug
+ref.shipping_lines.0.meta_data.3.value= local_pickup
+ref.shipping_lines.0.meta_data.4.id= 2592
+ref.shipping_lines.0.meta_data.4.key= pickup_address
+ref.shipping_lines.0.meta_data.4.value= No:23 Mariamman Koil Street, PS Nallur                         Puducherry - 605106, Nettapakkam, Pondicherry (Puducherry) India -  605106
+ref.shipping_lines.0.meta_data.5.id= 2593
+ref.shipping_lines.0.meta_data.5.key= processing_time
+ref.shipping_lines.0.meta_data.5.value= -
+ref.currency_symbol= ₹
+ref._links.self.0.href= http://test.angadi.co.in/wp-json/wc/v3/orders/4112
+ref._links.collection.0.href= http://test.angadi.co.in/wp-json/wc/v3/orders
+ref._links.customer.0.href= http://test.angadi.co.in/wp-json/wc/v3/customers/1
+
+
+[ref]
+ref.text= Hey First Name Last Name, your order #4112 from Prakash Farm(No:23 Mariamman Koil Street, PS Nallur                         Puducherry - 605106, , Nettapakkam,  605106.-IN) with items,
+Bhendi (₹0.00) 
+Brinjal (₹0.00) 
+ with a total cost of ₹0.00 has been received and is processing. Thank you!
+
+
+============[Trace]===========
+#0 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd1/203/10500203/public_html/telegram/send.php(73): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-05-15 14:14:31  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.id= 4113
+ref.parent_id= 0
+ref.number= 4113
+ref.order_key= wc_order_8L4Bl42rw0j3f
+ref.created_via= checkout
+ref.version= 4.0.1
+ref.status= processing
+ref.currency= INR
+ref.date_created= 2020-05-15T19:43:18
+ref.date_created_gmt= 2020-05-15T14:13:18
+ref.date_modified= 2020-05-15T19:43:18
+ref.date_modified_gmt= 2020-05-15T14:13:18
+ref.discount_total= 0.00
+ref.discount_tax= 0.00
+ref.shipping_total= 0.00
+ref.shipping_tax= 0.00
+ref.cart_tax= 0.00
+ref.total= 0.00
+ref.total_tax= 0.00
+ref.prices_include_tax= false
+ref.customer_id= 1
+ref.customer_ip_address= 103.220.37.4
+ref.customer_user_agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ref.customer_note= 
+ref.billing.first_name= First Name
+ref.billing.last_name= Last Name
+ref.billing.company= 
+ref.billing.address_1= Street Name 1
+ref.billing.address_2= Area Name
+ref.billing.city= Town
+ref.billing.state= PY
+ref.billing.postcode= 123456
+ref.billing.country= IN
+ref.billing.email= shafreena2000@gmail.com
+ref.billing.phone= 9739284447
+ref.shipping.first_name= First Name
+ref.shipping.last_name= Last Name
+ref.shipping.company= 
+ref.shipping.address_1= Street Name 1
+ref.shipping.address_2= Area Name
+ref.shipping.city= Town
+ref.shipping.state= PY
+ref.shipping.postcode= 123456
+ref.shipping.country= IN
+ref.payment_method= 
+ref.payment_method_title= 
+ref.transaction_id= 
+ref.date_paid= 2020-05-15T19:43:18
+ref.date_paid_gmt= 2020-05-15T14:13:18
+ref.date_completed= 
+ref.date_completed_gmt= 
+ref.cart_hash= 5bb8c20972b5b55f44de93060a38cccb
+ref.meta_data.0.id= 17450
+ref.meta_data.0.key= _billing_telegram
+ref.meta_data.0.value= 1221332407
+ref.meta_data.1.id= 17451
+ref.meta_data.1.key= is_vat_exempt
+ref.meta_data.1.value= no
+ref.meta_data.2.id= 17452
+ref.meta_data.2.key= store_details
+ref.meta_data.2.value= a:58:{s:9:"user_name";s:9:"Pdyuser96";s:10:"user_email";s:19:"help96@angadi.co.in";s:10:"first_name";s:7:"Prakash";s:9:"last_name";s:11:"Prabakarana";s:10:"store_name";s:12:"Prakash Farm";s:10:"store_slug";s:7:"Prakash";s:11:"store_email";s:0:"";s:5:"phone";s:10:"8870850998";s:9:"vendor_id";s:5:"99999";s:8:"gravatar";s:0:"";s:11:"banner_type";s:10:"single_img";s:6:"banner";s:0:"";s:12:"banner_video";s:0:"";s:13:"banner_slider";a:1:{i:0;a:2:{s:5:"image";s:0:"";s:4:"link";s:0:"";}}s:13:"mobile_banner";s:0:"";s:16:"list_banner_type";s:10:"single_img";s:11:"list_banner";s:0:"";s:17:"list_banner_video";s:0:"";s:16:"shop_description";s:30:"<p><br data-mce-bogus="1"></p>";s:7:"address";a:6:{s:8:"street_1";s:82:"No:23 Mariamman Koil Street, PS Nallur                         Puducherry - 605106";s:8:"street_2";s:0:"";s:4:"city";s:11:"Nettapakkam";s:3:"zip";s:7:" 605106";s:7:"country";s:2:"IN";s:5:"state";s:2:"PY";}s:11:"geolocation";a:3:{s:14:"store_location";s:127:"Nettapakkam Old Water Saving Tank, Fronteir Road, Madhagadipet, Villianur Taluk, Puducherry district, Puducherry, 605107, India";s:9:"store_lat";s:10:"11.8698024";s:9:"store_lng";s:10:"79.6312293";}s:19:"store_name_position";s:9:"on_header";s:9:"store_ppp";s:2:"10";s:16:"store_hide_email";s:3:"yes";s:15:"wcfmmp_shipping";a:2:{s:10:"_wcfmmp_pt";s:0:"";s:26:"_wcfmmp_user_shipping_type";s:0:"";}s:10:"commission";a:8:{s:15:"commission_mode";s:6:"global";s:18:"commission_percent";s:2:"90";s:16:"commission_fixed";s:0:"";s:19:"commission_by_sales";a:1:{i:0;a:5:{s:5:"sales";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:22:"commission_by_products";a:1:{i:0;a:5:{s:4:"cost";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:22:"commission_by_quantity";a:1:{i:0;a:5:{s:8:"quantity";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:8:"tax_name";s:0:"";s:11:"tax_percent";s:0:"";}s:10:"withdrawal";a:8:{s:16:"transaction_mode";s:6:"global";s:23:"transaction_charge_type";s:2:"no";s:18:"transaction_charge";a:1:{s:3:"cod";a:1:{i:0;a:2:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";}}}s:15:"withdrawal_mode";s:6:"global";s:16:"withdrawal_limit";s:0:"";s:19:"withdrawal_thresold";s:0:"";s:22:"withdrawal_charge_type";s:2:"no";s:17:"withdrawal_charge";a:4:{s:6:"paypal";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:6:"stripe";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:6:"skrill";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:13:"bank_transfer";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}}}s:7:"payment";a:4:{s:6:"method";s:0:"";s:6:"paypal";a:1:{s:5:"email";s:0:"";}s:6:"skrill";a:1:{s:5:"email";s:0:"";}s:4:"bank";a:8:{s:7:"ac_name";s:0:"";s:9:"ac_number";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_addr";s:0:"";s:14:"routing_number";s:0:"";s:4:"iban";s:0:"";s:5:"swift";s:0:"";s:4:"ifsc";s:0:"";}}s:16:"wcfm_store_hours";a:1:{s:9:"day_times";a:7:{i:0;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:1;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:2;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:3;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:4;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:5;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:6;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}}}s:9:"store_seo";a:9:{s:21:"wcfmmp-seo-meta-title";s:0:"";s:20:"wcfmmp-seo-meta-desc";s:0:"";s:24:"wcfmmp-seo-meta-keywords";s:0:"";s:19:"wcfmmp-seo-og-title";s:0:"";s:18:"wcfmmp-seo-og-desc";s:0:"";s:19:"wcfmmp-seo-og-image";s:0:"";s:24:"wcfmmp-seo-twitter-title";s:0:"";s:23:"wcfmmp-seo-twitter-desc";s:0:"";s:24:"wcfmmp-seo-twitter-image";s:0:"";}s:6:"social";a:8:{s:7:"twitter";s:0:"";s:2:"fb";s:0:"";s:9:"instagram";s:0:"";s:7:"youtube";s:0:"";s:8:"linkedin";s:0:"";s:5:"gplus";s:0:"";s:8:"snapchat";s:0:"";s:9:"pinterest";s:0:"";}s:21:"wcfm_policy_tab_title";s:0:"";s:20:"wcfm_shipping_policy";s:11:"<p><br></p>";s:18:"wcfm_refund_policy";s:11:"<p><br></p>";s:24:"wcfm_cancellation_policy";s:11:"<p><br></p>";s:16:"customer_support";a:8:{s:5:"phone";s:0:"";s:5:"email";s:0:"";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:7:"country";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:3:"zip";s:0:"";}s:11:"bfirst_name";s:0:"";s:10:"blast_name";s:0:"";s:6:"bphone";s:0:"";s:7:"baddr_1";s:0:"";s:7:"baddr_2";s:0:"";s:8:"bcountry";s:0:"";s:5:"bcity";s:0:"";s:6:"bstate";s:0:"";s:4:"bzip";s:0:"";s:11:"sfirst_name";s:0:"";s:10:"slast_name";s:0:"";s:7:"saddr_1";s:0:"";s:7:"saddr_2";s:0:"";s:8:"scountry";s:0:"";s:5:"scity";s:0:"";s:6:"sstate";s:0:"";s:4:"szip";s:0:"";s:18:"wcfm_vacation_mode";s:2:"no";s:30:"wcfm_disable_vacation_purchase";s:2:"no";s:14:"store_location";s:127:"Nettapakkam Old Water Saving Tank, Fronteir Road, Madhagadipet, Villianur Taluk, Puducherry district, Puducherry, 605107, India";s:9:"store_lat";s:10:"11.8698024";s:9:"store_lng";s:10:"79.6312293";}
+ref.meta_data.3.id= 17453
+ref.meta_data.3.key= store_phone
+ref.meta_data.3.value= 8870850998
+ref.meta_data.4.id= 17454
+ref.meta_data.4.key= store_telegram
+ref.meta_data.4.value= Pdyuser96
+ref.meta_data.5.id= 17455
+ref.meta_data.5.key= store_email
+ref.meta_data.5.value= 
+ref.meta_data.6.id= 17456
+ref.meta_data.6.key= store_address
+ref.meta_data.6.value= No:23 Mariamman Koil Street, PS Nallur                         Puducherry - 605106, , Nettapakkam,  605106.-IN
+ref.meta_data.7.id= 17457
+ref.meta_data.7.key= store_name
+ref.meta_data.7.value= Prakash Farm
+ref.meta_data.8.id= 17458
+ref.meta_data.8.key= _wcfmmp_order_processed
+ref.meta_data.8.value= yes
+ref.meta_data.9.id= 17465
+ref.meta_data.9.key= _wcfm_new_order_notified
+ref.meta_data.9.value= yes
+ref.meta_data.10.id= 17466
+ref.meta_data.10.key= _wcfm_membership_order_processed
+ref.meta_data.10.value= yes
+ref.meta_data.11.id= 17467
+ref.meta_data.11.key= _wcfmmp_order_email_triggered
+ref.meta_data.11.value= yes
+ref.line_items.0.id= 263
+ref.line_items.0.name= Bhendi
+ref.line_items.0.product_id= 3947
+ref.line_items.0.variation_id= 0
+ref.line_items.0.quantity= 8
+ref.line_items.0.tax_class= 
+ref.line_items.0.subtotal= 0.00
+ref.line_items.0.subtotal_tax= 0.00
+ref.line_items.0.total= 0.00
+ref.line_items.0.total_tax= 0.00
+ref.line_items.0.meta_data.0.id= 2627
+ref.line_items.0.meta_data.0.key= _vendor_id
+ref.line_items.0.meta_data.0.value= 120
+ref.line_items.0.meta_data.1.id= 2628
+ref.line_items.0.meta_data.1.key= _wcfmmp_order_item_processed
+ref.line_items.0.meta_data.1.value= 145
+ref.line_items.0.sku= 
+ref.line_items.0.price= 0
+ref.line_items.1.id= 264
+ref.line_items.1.name= Brinjal
+ref.line_items.1.product_id= 3943
+ref.line_items.1.variation_id= 0
+ref.line_items.1.quantity= 7
+ref.line_items.1.tax_class= 
+ref.line_items.1.subtotal= 0.00
+ref.line_items.1.subtotal_tax= 0.00
+ref.line_items.1.total= 0.00
+ref.line_items.1.total_tax= 0.00
+ref.line_items.1.meta_data.0.id= 2629
+ref.line_items.1.meta_data.0.key= _vendor_id
+ref.line_items.1.meta_data.0.value= 120
+ref.line_items.1.meta_data.1.id= 2630
+ref.line_items.1.meta_data.1.key= _wcfmmp_order_item_processed
+ref.line_items.1.meta_data.1.value= 146
+ref.line_items.1.sku= 
+ref.line_items.1.price= 0
+ref.shipping_lines.0.id= 265
+ref.shipping_lines.0.method_title= In Store pickup
+ref.shipping_lines.0.method_id= local_pickup
+ref.shipping_lines.0.instance_id= 1
+ref.shipping_lines.0.total= 0.00
+ref.shipping_lines.0.total_tax= 0.00
+ref.shipping_lines.0.meta_data.0.id= 2621
+ref.shipping_lines.0.meta_data.0.key= Items
+ref.shipping_lines.0.meta_data.0.value= Bhendi &times; 8, Brinjal &times; 7
+ref.shipping_lines.0.meta_data.1.id= 2622
+ref.shipping_lines.0.meta_data.1.key= vendor_id
+ref.shipping_lines.0.meta_data.1.value= 120
+ref.shipping_lines.0.meta_data.2.id= 2623
+ref.shipping_lines.0.meta_data.2.key= package_qty
+ref.shipping_lines.0.meta_data.2.value= 15
+ref.shipping_lines.0.meta_data.3.id= 2624
+ref.shipping_lines.0.meta_data.3.key= method_slug
+ref.shipping_lines.0.meta_data.3.value= local_pickup
+ref.shipping_lines.0.meta_data.4.id= 2625
+ref.shipping_lines.0.meta_data.4.key= pickup_address
+ref.shipping_lines.0.meta_data.4.value= No:23 Mariamman Koil Street, PS Nallur                         Puducherry - 605106, Nettapakkam, Pondicherry (Puducherry) India -  605106
+ref.shipping_lines.0.meta_data.5.id= 2626
+ref.shipping_lines.0.meta_data.5.key= processing_time
+ref.shipping_lines.0.meta_data.5.value= -
+ref.currency_symbol= ₹
+ref._links.self.0.href= http://test.angadi.co.in/wp-json/wc/v3/orders/4113
+ref._links.collection.0.href= http://test.angadi.co.in/wp-json/wc/v3/orders
+ref._links.customer.0.href= http://test.angadi.co.in/wp-json/wc/v3/customers/1
+
+
+[ref]
+ref.text= Hey First Name Last Name, your order #4113 from Prakash Farm(No:23 Mariamman Koil Street, PS Nallur                         Puducherry - 605106, , Nettapakkam,  605106.-IN) with items,
+Bhendi (₹0.00) 
+Brinjal (₹0.00) 
+ with a total cost of ₹0.00 has been received and is processing. Thank you!
+
+
+============[Trace]===========
+#0 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd1/203/10500203/public_html/telegram/send.php(73): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-05-15 15:00:14  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.id= 4116
+ref.parent_id= 0
+ref.number= 4116
+ref.order_key= wc_order_u5JGNFpAqjcAM
+ref.created_via= checkout
+ref.version= 4.0.1
+ref.status= processing
+ref.currency= INR
+ref.date_created= 2020-05-15T20:29:54
+ref.date_created_gmt= 2020-05-15T14:59:54
+ref.date_modified= 2020-05-15T20:29:54
+ref.date_modified_gmt= 2020-05-15T14:59:54
+ref.discount_total= 0.00
+ref.discount_tax= 0.00
+ref.shipping_total= 0.00
+ref.shipping_tax= 0.00
+ref.cart_tax= 0.00
+ref.total= 138840.00
+ref.total_tax= 0.00
+ref.prices_include_tax= false
+ref.customer_id= 1
+ref.customer_ip_address= 103.220.37.4
+ref.customer_user_agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ref.customer_note= 
+ref.billing.first_name= First Name
+ref.billing.last_name= Last Name
+ref.billing.company= 
+ref.billing.address_1= Street Name 1
+ref.billing.address_2= Area Name
+ref.billing.city= Town
+ref.billing.state= PY
+ref.billing.postcode= 123456
+ref.billing.country= IN
+ref.billing.email= shafreena2000@gmail.com
+ref.billing.phone= 6379889316
+ref.shipping.first_name= First Name
+ref.shipping.last_name= Last Name
+ref.shipping.company= 
+ref.shipping.address_1= Street Name 1
+ref.shipping.address_2= Area Name
+ref.shipping.city= Town
+ref.shipping.state= PY
+ref.shipping.postcode= 123456
+ref.shipping.country= IN
+ref.payment_method= cod
+ref.payment_method_title= Cash on delivery
+ref.transaction_id= 
+ref.date_paid= 
+ref.date_paid_gmt= 
+ref.date_completed= 
+ref.date_completed_gmt= 
+ref.cart_hash= 5fc1a55bc0b98625d969411bdfec679a
+ref.meta_data.0.id= 17558
+ref.meta_data.0.key= _billing_telegram
+ref.meta_data.0.value= 1067737719
+ref.meta_data.1.id= 17559
+ref.meta_data.1.key= is_vat_exempt
+ref.meta_data.1.value= no
+ref.meta_data.2.id= 17560
+ref.meta_data.2.key= store_details
+ref.meta_data.2.value= a:65:{s:9:"user_name";s:3:"abc";s:10:"user_email";s:13:"abc@gmail.com";s:10:"first_name";s:11:"Store First";s:9:"last_name";s:10:"Store Last";s:10:"store_name";s:3:"abc";s:10:"store_slug";s:3:"abc";s:11:"store_email";s:13:"abc@gmail.com";s:5:"phone";s:10:"6379193017";s:9:"vendor_id";s:3:"158";s:8:"gravatar";s:0:"";s:11:"banner_type";s:10:"single_img";s:6:"banner";s:0:"";s:12:"banner_video";s:0:"";s:13:"banner_slider";a:1:{i:0;a:2:{s:5:"image";s:0:"";s:4:"link";s:0:"";}}s:13:"mobile_banner";s:0:"";s:16:"list_banner_type";s:10:"single_img";s:11:"list_banner";s:0:"";s:17:"list_banner_video";s:0:"";s:16:"shop_description";s:11:"<p><br></p>";s:7:"address";a:6:{s:8:"street_1";s:6:"Street";s:8:"street_2";s:8:"Street 2";s:4:"city";s:4:"Town";s:3:"zip";s:6:"605102";s:7:"country";s:2:"IN";s:5:"state";s:2:"PY";}s:11:"geolocation";a:3:{s:14:"store_location";s:0:"";s:9:"store_lat";s:1:"0";s:9:"store_lng";s:1:"0";}s:19:"store_name_position";s:9:"on_header";s:9:"store_ppp";s:2:"10";s:15:"wcfmmp_shipping";a:2:{s:10:"_wcfmmp_pt";s:0:"";s:26:"_wcfmmp_user_shipping_type";s:0:"";}s:10:"commission";a:8:{s:15:"commission_mode";s:6:"global";s:18:"commission_percent";s:2:"90";s:16:"commission_fixed";s:0:"";s:19:"commission_by_sales";a:1:{i:0;a:5:{s:5:"sales";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:22:"commission_by_products";a:1:{i:0;a:5:{s:4:"cost";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:22:"commission_by_quantity";a:1:{i:0;a:5:{s:8:"quantity";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:8:"tax_name";s:0:"";s:11:"tax_percent";s:0:"";}s:10:"withdrawal";a:8:{s:16:"transaction_mode";s:6:"global";s:23:"transaction_charge_type";s:2:"no";s:18:"transaction_charge";a:1:{s:3:"cod";a:1:{i:0;a:2:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";}}}s:15:"withdrawal_mode";s:6:"global";s:16:"withdrawal_limit";s:0:"";s:19:"withdrawal_thresold";s:0:"";s:22:"withdrawal_charge_type";s:2:"no";s:17:"withdrawal_charge";a:4:{s:6:"paypal";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:6:"stripe";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:6:"skrill";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:13:"bank_transfer";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}}}s:7:"payment";a:4:{s:6:"method";s:0:"";s:6:"paypal";a:1:{s:5:"email";s:0:"";}s:6:"skrill";a:1:{s:5:"email";s:0:"";}s:4:"bank";a:8:{s:7:"ac_name";s:0:"";s:9:"ac_number";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_addr";s:0:"";s:14:"routing_number";s:0:"";s:4:"iban";s:0:"";s:5:"swift";s:0:"";s:4:"ifsc";s:0:"";}}s:16:"wcfm_store_hours";a:1:{s:9:"day_times";a:7:{i:0;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:1;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:2;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:3;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:4;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:5;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:6;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}}}s:9:"store_seo";a:9:{s:21:"wcfmmp-seo-meta-title";s:0:"";s:20:"wcfmmp-seo-meta-desc";s:0:"";s:24:"wcfmmp-seo-meta-keywords";s:0:"";s:19:"wcfmmp-seo-og-title";s:0:"";s:18:"wcfmmp-seo-og-desc";s:0:"";s:19:"wcfmmp-seo-og-image";s:0:"";s:24:"wcfmmp-seo-twitter-title";s:0:"";s:23:"wcfmmp-seo-twitter-desc";s:0:"";s:24:"wcfmmp-seo-twitter-image";s:0:"";}s:6:"social";a:8:{s:7:"twitter";s:0:"";s:2:"fb";s:0:"";s:9:"instagram";s:0:"";s:7:"youtube";s:0:"";s:8:"linkedin";s:0:"";s:5:"gplus";s:0:"";s:8:"snapchat";s:0:"";s:9:"pinterest";s:0:"";}s:21:"wcfm_policy_tab_title";s:0:"";s:20:"wcfm_shipping_policy";s:11:"<p><br></p>";s:18:"wcfm_refund_policy";s:11:"<p><br></p>";s:24:"wcfm_cancellation_policy";s:11:"<p><br></p>";s:16:"customer_support";a:8:{s:5:"phone";s:0:"";s:5:"email";s:0:"";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:7:"country";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:3:"zip";s:0:"";}s:11:"bfirst_name";s:0:"";s:10:"blast_name";s:0:"";s:6:"bphone";s:0:"";s:7:"baddr_1";s:0:"";s:7:"baddr_2";s:0:"";s:8:"bcountry";s:0:"";s:5:"bcity";s:0:"";s:6:"bstate";s:0:"";s:4:"bzip";s:0:"";s:11:"sfirst_name";s:0:"";s:10:"slast_name";s:0:"";s:7:"saddr_1";s:0:"";s:7:"saddr_2";s:0:"";s:8:"scountry";s:0:"";s:5:"scity";s:0:"";s:6:"sstate";s:0:"";s:4:"szip";s:0:"";s:18:"wcfm_vacation_mode";s:2:"no";s:30:"wcfm_disable_vacation_purchase";s:2:"no";s:14:"store_location";s:0:"";s:9:"store_lat";s:1:"0";s:9:"store_lng";s:1:"0";s:12:"v_store_type";s:0:"";s:16:"store_hide_email";s:2:"no";s:16:"store_hide_phone";s:2:"no";s:18:"store_hide_address";s:2:"no";s:14:"store_hide_map";s:2:"no";s:22:"store_hide_description";s:2:"no";s:17:"store_hide_policy";s:2:"no";s:16:"v_store_telegram";s:9:"744292123";}
+ref.meta_data.3.id= 17561
+ref.meta_data.3.key= store_phone
+ref.meta_data.3.value= 6379193017
+ref.meta_data.4.id= 17562
+ref.meta_data.4.key= store_telegram
+ref.meta_data.4.value= 744292123
+ref.meta_data.5.id= 17563
+ref.meta_data.5.key= store_email
+ref.meta_data.5.value= abc@gmail.com
+ref.meta_data.6.id= 17564
+ref.meta_data.6.key= store_address
+ref.meta_data.6.value= Street, Street 2, Town, 605102.-IN
+ref.meta_data.7.id= 17565
+ref.meta_data.7.key= store_name
+ref.meta_data.7.value= abc
+ref.meta_data.8.id= 17566
+ref.meta_data.8.key= _wcfmmp_order_processed
+ref.meta_data.8.value= yes
+ref.meta_data.9.id= 17571
+ref.meta_data.9.key= _wcfm_new_order_notified
+ref.meta_data.9.value= yes
+ref.meta_data.10.id= 17572
+ref.meta_data.10.key= _wcfm_membership_order_processed
+ref.meta_data.10.value= yes
+ref.meta_data.11.id= 17573
+ref.meta_data.11.key= _wcfmmp_order_email_triggered
+ref.meta_data.11.value= yes
+ref.line_items.0.id= 268
+ref.line_items.0.name= cat food
+ref.line_items.0.product_id= 3993
+ref.line_items.0.variation_id= 0
+ref.line_items.0.quantity= 2
+ref.line_items.0.tax_class= 
+ref.line_items.0.subtotal= 138840.00
+ref.line_items.0.subtotal_tax= 0.00
+ref.line_items.0.total= 138840.00
+ref.line_items.0.total_tax= 0.00
+ref.line_items.0.meta_data.0.id= 2667
+ref.line_items.0.meta_data.0.key= _vendor_id
+ref.line_items.0.meta_data.0.value= 158
+ref.line_items.0.meta_data.1.id= 2668
+ref.line_items.0.meta_data.1.key= _wcfmmp_order_item_processed
+ref.line_items.0.meta_data.1.value= 148
+ref.line_items.0.sku= 
+ref.line_items.0.price= 69420
+ref.shipping_lines.0.id= 269
+ref.shipping_lines.0.method_title= In Store pickup
+ref.shipping_lines.0.method_id= local_pickup
+ref.shipping_lines.0.instance_id= 1
+ref.shipping_lines.0.total= 0.00
+ref.shipping_lines.0.total_tax= 0.00
+ref.shipping_lines.0.meta_data.0.id= 2664
+ref.shipping_lines.0.meta_data.0.key= Items
+ref.shipping_lines.0.meta_data.0.value= cat food &times; 2
+ref.shipping_lines.0.meta_data.1.id= 2665
+ref.shipping_lines.0.meta_data.1.key= package_qty
+ref.shipping_lines.0.meta_data.1.value= 2
+ref.shipping_lines.0.meta_data.2.id= 2666
+ref.shipping_lines.0.meta_data.2.key= method_slug
+ref.shipping_lines.0.meta_data.2.value= local_pickup
+ref.currency_symbol= ₹
+ref._links.self.0.href= http://test.angadi.co.in/wp-json/wc/v3/orders/4116
+ref._links.collection.0.href= http://test.angadi.co.in/wp-json/wc/v3/orders
+ref._links.customer.0.href= http://test.angadi.co.in/wp-json/wc/v3/customers/1
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd1/203/10500203/public_html/telegram/send.php(67): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-05-15 15:00:15  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.id= 4116
+ref.parent_id= 0
+ref.number= 4116
+ref.order_key= wc_order_u5JGNFpAqjcAM
+ref.created_via= checkout
+ref.version= 4.0.1
+ref.status= processing
+ref.currency= INR
+ref.date_created= 2020-05-15T20:29:54
+ref.date_created_gmt= 2020-05-15T14:59:54
+ref.date_modified= 2020-05-15T20:29:54
+ref.date_modified_gmt= 2020-05-15T14:59:54
+ref.discount_total= 0.00
+ref.discount_tax= 0.00
+ref.shipping_total= 0.00
+ref.shipping_tax= 0.00
+ref.cart_tax= 0.00
+ref.total= 138840.00
+ref.total_tax= 0.00
+ref.prices_include_tax= false
+ref.customer_id= 1
+ref.customer_ip_address= 103.220.37.4
+ref.customer_user_agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ref.customer_note= 
+ref.billing.first_name= First Name
+ref.billing.last_name= Last Name
+ref.billing.company= 
+ref.billing.address_1= Street Name 1
+ref.billing.address_2= Area Name
+ref.billing.city= Town
+ref.billing.state= PY
+ref.billing.postcode= 123456
+ref.billing.country= IN
+ref.billing.email= shafreena2000@gmail.com
+ref.billing.phone= 6379889316
+ref.shipping.first_name= First Name
+ref.shipping.last_name= Last Name
+ref.shipping.company= 
+ref.shipping.address_1= Street Name 1
+ref.shipping.address_2= Area Name
+ref.shipping.city= Town
+ref.shipping.state= PY
+ref.shipping.postcode= 123456
+ref.shipping.country= IN
+ref.payment_method= cod
+ref.payment_method_title= Cash on delivery
+ref.transaction_id= 
+ref.date_paid= 
+ref.date_paid_gmt= 
+ref.date_completed= 
+ref.date_completed_gmt= 
+ref.cart_hash= 5fc1a55bc0b98625d969411bdfec679a
+ref.meta_data.0.id= 17558
+ref.meta_data.0.key= _billing_telegram
+ref.meta_data.0.value= 1067737719
+ref.meta_data.1.id= 17559
+ref.meta_data.1.key= is_vat_exempt
+ref.meta_data.1.value= no
+ref.meta_data.2.id= 17560
+ref.meta_data.2.key= store_details
+ref.meta_data.2.value= a:65:{s:9:"user_name";s:3:"abc";s:10:"user_email";s:13:"abc@gmail.com";s:10:"first_name";s:11:"Store First";s:9:"last_name";s:10:"Store Last";s:10:"store_name";s:3:"abc";s:10:"store_slug";s:3:"abc";s:11:"store_email";s:13:"abc@gmail.com";s:5:"phone";s:10:"6379193017";s:9:"vendor_id";s:3:"158";s:8:"gravatar";s:0:"";s:11:"banner_type";s:10:"single_img";s:6:"banner";s:0:"";s:12:"banner_video";s:0:"";s:13:"banner_slider";a:1:{i:0;a:2:{s:5:"image";s:0:"";s:4:"link";s:0:"";}}s:13:"mobile_banner";s:0:"";s:16:"list_banner_type";s:10:"single_img";s:11:"list_banner";s:0:"";s:17:"list_banner_video";s:0:"";s:16:"shop_description";s:11:"<p><br></p>";s:7:"address";a:6:{s:8:"street_1";s:6:"Street";s:8:"street_2";s:8:"Street 2";s:4:"city";s:4:"Town";s:3:"zip";s:6:"605102";s:7:"country";s:2:"IN";s:5:"state";s:2:"PY";}s:11:"geolocation";a:3:{s:14:"store_location";s:0:"";s:9:"store_lat";s:1:"0";s:9:"store_lng";s:1:"0";}s:19:"store_name_position";s:9:"on_header";s:9:"store_ppp";s:2:"10";s:15:"wcfmmp_shipping";a:2:{s:10:"_wcfmmp_pt";s:0:"";s:26:"_wcfmmp_user_shipping_type";s:0:"";}s:10:"commission";a:8:{s:15:"commission_mode";s:6:"global";s:18:"commission_percent";s:2:"90";s:16:"commission_fixed";s:0:"";s:19:"commission_by_sales";a:1:{i:0;a:5:{s:5:"sales";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:22:"commission_by_products";a:1:{i:0;a:5:{s:4:"cost";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:22:"commission_by_quantity";a:1:{i:0;a:5:{s:8:"quantity";s:0:"";s:4:"rule";s:4:"upto";s:4:"type";s:7:"percent";s:10:"commission";s:0:"";s:16:"commission_fixed";s:0:"";}}s:8:"tax_name";s:0:"";s:11:"tax_percent";s:0:"";}s:10:"withdrawal";a:8:{s:16:"transaction_mode";s:6:"global";s:23:"transaction_charge_type";s:2:"no";s:18:"transaction_charge";a:1:{s:3:"cod";a:1:{i:0;a:2:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";}}}s:15:"withdrawal_mode";s:6:"global";s:16:"withdrawal_limit";s:0:"";s:19:"withdrawal_thresold";s:0:"";s:22:"withdrawal_charge_type";s:2:"no";s:17:"withdrawal_charge";a:4:{s:6:"paypal";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:6:"stripe";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:6:"skrill";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}s:13:"bank_transfer";a:1:{i:0;a:3:{s:7:"percent";s:0:"";s:5:"fixed";s:0:"";s:3:"tax";s:0:"";}}}}s:7:"payment";a:4:{s:6:"method";s:0:"";s:6:"paypal";a:1:{s:5:"email";s:0:"";}s:6:"skrill";a:1:{s:5:"email";s:0:"";}s:4:"bank";a:8:{s:7:"ac_name";s:0:"";s:9:"ac_number";s:0:"";s:9:"bank_name";s:0:"";s:9:"bank_addr";s:0:"";s:14:"routing_number";s:0:"";s:4:"iban";s:0:"";s:5:"swift";s:0:"";s:4:"ifsc";s:0:"";}}s:16:"wcfm_store_hours";a:1:{s:9:"day_times";a:7:{i:0;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:1;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:2;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:3;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:4;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:5;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}i:6;a:1:{i:0;a:2:{s:5:"start";s:0:"";s:3:"end";s:0:"";}}}}s:9:"store_seo";a:9:{s:21:"wcfmmp-seo-meta-title";s:0:"";s:20:"wcfmmp-seo-meta-desc";s:0:"";s:24:"wcfmmp-seo-meta-keywords";s:0:"";s:19:"wcfmmp-seo-og-title";s:0:"";s:18:"wcfmmp-seo-og-desc";s:0:"";s:19:"wcfmmp-seo-og-image";s:0:"";s:24:"wcfmmp-seo-twitter-title";s:0:"";s:23:"wcfmmp-seo-twitter-desc";s:0:"";s:24:"wcfmmp-seo-twitter-image";s:0:"";}s:6:"social";a:8:{s:7:"twitter";s:0:"";s:2:"fb";s:0:"";s:9:"instagram";s:0:"";s:7:"youtube";s:0:"";s:8:"linkedin";s:0:"";s:5:"gplus";s:0:"";s:8:"snapchat";s:0:"";s:9:"pinterest";s:0:"";}s:21:"wcfm_policy_tab_title";s:0:"";s:20:"wcfm_shipping_policy";s:11:"<p><br></p>";s:18:"wcfm_refund_policy";s:11:"<p><br></p>";s:24:"wcfm_cancellation_policy";s:11:"<p><br></p>";s:16:"customer_support";a:8:{s:5:"phone";s:0:"";s:5:"email";s:0:"";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:7:"country";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:3:"zip";s:0:"";}s:11:"bfirst_name";s:0:"";s:10:"blast_name";s:0:"";s:6:"bphone";s:0:"";s:7:"baddr_1";s:0:"";s:7:"baddr_2";s:0:"";s:8:"bcountry";s:0:"";s:5:"bcity";s:0:"";s:6:"bstate";s:0:"";s:4:"bzip";s:0:"";s:11:"sfirst_name";s:0:"";s:10:"slast_name";s:0:"";s:7:"saddr_1";s:0:"";s:7:"saddr_2";s:0:"";s:8:"scountry";s:0:"";s:5:"scity";s:0:"";s:6:"sstate";s:0:"";s:4:"szip";s:0:"";s:18:"wcfm_vacation_mode";s:2:"no";s:30:"wcfm_disable_vacation_purchase";s:2:"no";s:14:"store_location";s:0:"";s:9:"store_lat";s:1:"0";s:9:"store_lng";s:1:"0";s:12:"v_store_type";s:0:"";s:16:"store_hide_email";s:2:"no";s:16:"store_hide_phone";s:2:"no";s:18:"store_hide_address";s:2:"no";s:14:"store_hide_map";s:2:"no";s:22:"store_hide_description";s:2:"no";s:17:"store_hide_policy";s:2:"no";s:16:"v_store_telegram";s:9:"744292123";}
+ref.meta_data.3.id= 17561
+ref.meta_data.3.key= store_phone
+ref.meta_data.3.value= 6379193017
+ref.meta_data.4.id= 17562
+ref.meta_data.4.key= store_telegram
+ref.meta_data.4.value= 744292123
+ref.meta_data.5.id= 17563
+ref.meta_data.5.key= store_email
+ref.meta_data.5.value= abc@gmail.com
+ref.meta_data.6.id= 17564
+ref.meta_data.6.key= store_address
+ref.meta_data.6.value= Street, Street 2, Town, 605102.-IN
+ref.meta_data.7.id= 17565
+ref.meta_data.7.key= store_name
+ref.meta_data.7.value= abc
+ref.meta_data.8.id= 17566
+ref.meta_data.8.key= _wcfmmp_order_processed
+ref.meta_data.8.value= yes
+ref.meta_data.9.id= 17571
+ref.meta_data.9.key= _wcfm_new_order_notified
+ref.meta_data.9.value= yes
+ref.meta_data.10.id= 17572
+ref.meta_data.10.key= _wcfm_membership_order_processed
+ref.meta_data.10.value= yes
+ref.meta_data.11.id= 17573
+ref.meta_data.11.key= _wcfmmp_order_email_triggered
+ref.meta_data.11.value= yes
+ref.line_items.0.id= 268
+ref.line_items.0.name= cat food
+ref.line_items.0.product_id= 3993
+ref.line_items.0.variation_id= 0
+ref.line_items.0.quantity= 2
+ref.line_items.0.tax_class= 
+ref.line_items.0.subtotal= 138840.00
+ref.line_items.0.subtotal_tax= 0.00
+ref.line_items.0.total= 138840.00
+ref.line_items.0.total_tax= 0.00
+ref.line_items.0.meta_data.0.id= 2667
+ref.line_items.0.meta_data.0.key= _vendor_id
+ref.line_items.0.meta_data.0.value= 158
+ref.line_items.0.meta_data.1.id= 2668
+ref.line_items.0.meta_data.1.key= _wcfmmp_order_item_processed
+ref.line_items.0.meta_data.1.value= 148
+ref.line_items.0.sku= 
+ref.line_items.0.price= 69420
+ref.shipping_lines.0.id= 269
+ref.shipping_lines.0.method_title= In Store pickup
+ref.shipping_lines.0.method_id= local_pickup
+ref.shipping_lines.0.instance_id= 1
+ref.shipping_lines.0.total= 0.00
+ref.shipping_lines.0.total_tax= 0.00
+ref.shipping_lines.0.meta_data.0.id= 2664
+ref.shipping_lines.0.meta_data.0.key= Items
+ref.shipping_lines.0.meta_data.0.value= cat food &times; 2
+ref.shipping_lines.0.meta_data.1.id= 2665
+ref.shipping_lines.0.meta_data.1.key= package_qty
+ref.shipping_lines.0.meta_data.1.value= 2
+ref.shipping_lines.0.meta_data.2.id= 2666
+ref.shipping_lines.0.meta_data.2.key= method_slug
+ref.shipping_lines.0.meta_data.2.value= local_pickup
+ref.currency_symbol= ₹
+ref._links.self.0.href= http://test.angadi.co.in/wp-json/wc/v3/orders/4116
+ref._links.collection.0.href= http://test.angadi.co.in/wp-json/wc/v3/orders
+ref._links.customer.0.href= http://test.angadi.co.in/wp-json/wc/v3/customers/1
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd1/203/10500203/public_html/telegram/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd1/203/10500203/public_html/telegram/send.php(70): Telegram->sendMessage(Array)
+#4 {main}
+
